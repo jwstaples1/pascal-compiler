@@ -1,0 +1,2 @@
+libparser-g.a(PJScanner.o): PJScanner.c ../util/general.h ../util/dlink.h \
+ ../util/string_utils.h PJParserHeader.h PJParser.h

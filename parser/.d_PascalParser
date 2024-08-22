@@ -1,0 +1,5 @@
+libparser-g.a(PascalParser.o): PascalParser.c ../util/general.h \
+ ../util/symtab.h ../util/symtab_stack.h ../util/dlink.h \
+ ../util/string_utils.h ../codegen/codegen.h ../codegen/types.h \
+ ../codegen/symfields.h ../codegen/reg.h PascalParserHeader.h \
+ PascalParser.h

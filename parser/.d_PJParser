@@ -1,0 +1,4 @@
+libparser-g.a(PJParser.o): PJParser.c ../util/general.h ../util/symtab.h \
+ ../util/dlink.h ../util/string_utils.h ../codegen/codegen.h \
+ ../codegen/reg.h ../codegen/symfields.h ../codegen/types.h \
+ PJParserHeader.h PJParser.h

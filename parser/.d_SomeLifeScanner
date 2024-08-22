@@ -1,0 +1,4 @@
+libparser-g.a(SomeLifeScanner.o): SomeLifeScanner.c ../util/general.h \
+ ../util/symtab.h ../util/dlink.h ../codegen/codegen.h \
+ ../util/string_utils.h SomeLifeParserHeader.h ../util/symtab_stack.h \
+ SomeLifeParser.h

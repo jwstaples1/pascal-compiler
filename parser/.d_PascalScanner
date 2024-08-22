@@ -1,0 +1,3 @@
+libparser-g.a(PascalScanner.o): PascalScanner.c ../util/general.h \
+ ../util/string_utils.h PascalParserHeader.h ../util/dlink.h \
+ PascalParser.h
